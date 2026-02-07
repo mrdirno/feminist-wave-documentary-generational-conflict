@@ -1,0 +1,160 @@
+{
+  "book_id": "feminist_wave_documentary_generational_conflict",
+  "title": "The Complication: A Documentary of Erasure",
+  "tagline": "A daughter's search for a forgotten radical cracks the museum of her mother's perfect revolution.",
+  "target_words": 70000,
+  "actual_words": 71264,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Inherited vs. Lived Feminism",
+    "The Archive and the Erased",
+    "Daughters as Curators of Maternal Legacy",
+    "The Violence of a Sanitized History"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Barricade",
+      "words": 3500
+    },
+    {
+      "ch": 2,
+      "title": "State of the Union",
+      "words": 3000
+    },
+    {
+      "ch": 3,
+      "title": "The First Ghost",
+      "words": 3200
+    },
+    {
+      "ch": 4,
+      "title": "The Archive",
+      "words": 3100
+    },
+    {
+      "ch": 5,
+      "title": "Oral History",
+      "words": 2900
+    },
+    {
+      "ch": 6,
+      "title": "The Split",
+      "words": 3400
+    },
+    {
+      "ch": 7,
+      "title": "Sex Wars",
+      "words": 3300
+    },
+    {
+      "ch": 8,
+      "title": "Found Footage",
+      "words": 2800
+    },
+    {
+      "ch": 9,
+      "title": "Lynne's Testimony",
+      "words": 3100
+    },
+    {
+      "ch": 10,
+      "title": "The Action",
+      "words": 3500
+    },
+    {
+      "ch": 11,
+      "title": "Betrayal",
+      "words": 3200
+    },
+    {
+      "ch": 12,
+      "title": "Portland Isn't New York",
+      "words": 2900
+    },
+    {
+      "ch": 13,
+      "title": "Rachel's Defense",
+      "words": 3000
+    },
+    {
+      "ch": 14,
+      "title": "The Zine",
+      "words": 2700
+    },
+    {
+      "ch": 15,
+      "title": "Confrontation at the University",
+      "words": 3600
+    },
+    {
+      "ch": 16,
+      "title": "Joan's Side of the Wall",
+      "words": 3400
+    },
+    {
+      "ch": 17,
+      "title": "The Photographer",
+      "words": 2800
+    },
+    {
+      "ch": 18,
+      "title": "Eleanor in Motion",
+      "words": 3100
+    },
+    {
+      "ch": 19,
+      "title": "The Cost of Being a Complication",
+      "words": 3500
+    },
+    {
+      "ch": 20,
+      "title": "Not a Museum, a Battlefield",
+      "words": 3200
+    },
+    {
+      "ch": 21,
+      "title": "Screening the Rough Cut",
+      "words": 2900
+    },
+    {
+      "ch": 22,
+      "title": "The Torch, Not the Battering Ram",
+      "words": 3100
+    },
+    {
+      "ch": 23,
+      "title": "A New Corner of the Corkboard",
+      "words": 2800
+    },
+    {
+      "ch": 24,
+      "title": "Take Your Foot Off Our Necks",
+      "words": 3400
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers a 'complication' in their family's or community's official history. How do they investigate it, and what personal cost do they face?",
+      "Create a found document (letter, journal entry, protest flyer, police report) that reveals a hidden conflict between two characters in a social movement.",
+      "Write a dialogue between a 'second-wave' feminist and a 'fourth-wave' feminist where they try to find common ground, but keep talking past each other because of their unspoken generational trauma.",
+      "Imagine a character curating a 'Wall of Worthies' for a cause they believe in. Who do they include, and more importantly, who do they consciously or unconsciously leave out? Why?"
+    ],
+    "technical": [
+      "Build a simple web-based 'Documentary Archive' where users can click on items on a virtual corkboard (like Joan's) to reveal hidden documents, audio clips, or conflicting testimonies about a single historical event.",
+      "Create a text-analysis script that compares the language of feminist manifestos from different decades, visualizing the shift in keywords, tone, and demanded actions."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Rebecca Solnit (historian of silence and erasure)",
+      "Margo Jefferson (explorer of curated family legacies)",
+      "Katherine Boo (documentarian of systemic failure)",
+      "Mona Eltahawy (writer on intergenerational feminist conflict)"
+    ]
+  },
+  "cover_prompt": "A young woman's hands carefully peel back a layer of pristine white paint from a museum wall, revealing a vibrant, defiant protest mural beneath, [Detailed Scene & Context: set in a cold, minimalist archival room with glass cases containing orderly displays of suffragette sashes and polished buttons, contrasting with the raw, uncovered graffiti of fists, raised voices, and erased faces], [Artistic Style & Medium: in the atmospheric style of Charlotte Salomon meets Kara Walker, using mixed media of textured acrylics and archival photo transfer on canvas, creating a palimpsest of history], [Composition & Camera: book cover framing, an extreme close-up centered on the point of revelation where the daughter's fingers meet the mother's hidden past, shot from a low angle to emphasize the weight of discovery], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single stark light source, color palette of institutional whites and greys violently interrupted by the uncovered umbers, oxblood reds, and faded yellows of the radical past], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
